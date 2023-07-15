@@ -2,17 +2,17 @@ name: ezyscore
 channels:
   - defaults
 dependencies:
-  - ca-certificates=2022.2.1=haa95532_0
-  - certifi=2021.10.8=py38haa95532_2
-  - openssl=1.1.1m=h2bbff1b_0
-  - pip=21.2.2=py38haa95532_0
-  - python=3.8.12=h6244533_0
-  - setuptools=58.0.4=py38haa95532_0
-  - sqlite=3.38.0=h2bbff1b_0
-  - vc=14.2=h21ff451_1
-  - vs2015_runtime=14.27.29016=h5e58377_2
-  - wheel=0.37.1=pyhd3eb1b0_0
-  - wincertstore=0.2=py38haa95532_2
+  - ca-certificates=2022.2.1
+  - certifi=2021.10.8
+  - openssl=1.1.1m
+  - pip=21.2.2
+  - python=3.8.12
+  - setuptools=58.0.4
+  - sqlite=3.38.0
+  - vc=14.2
+  - vs2015_runtime=14.27.29016
+  - wheel=0.37.1
+  - wincertstore=0.2
   - pip:
     - altair==4.2.0
     - anyio==3.5.0
