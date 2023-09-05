@@ -1,4 +1,4 @@
-# EzyScore
+# EzySCR
 
 A semi-automated system prototype that annotates skin conductance data.
 
@@ -26,7 +26,7 @@ We will clone this repo. Copy the location of this repo: \
 
 Use the next command:
 
-**git clone https://github.com/jorgpg5/EzyScore.git"
+**git clone https://github.com/jorgpg5/EzySCR.git"
 
 Then, we will open an anaconda prompt. Type "anaconda prompt" on the windows search bar.
 
@@ -53,8 +53,8 @@ The virtual environment that hosts the annotation interface should be ready afte
 
 When the installation of the virtual environment has finished, run the next commands:
 
-**conda activate ezyscore** \
-**voila ezyscore.ipynb**
+**conda activate ezyscr** \
+**voila ezyscr.ipynb**
 
 Voila! (pun intended :P) your interface is ready to use.
 
@@ -69,8 +69,8 @@ To run the interface, go to the folder where you cloned this repo.
 
 Enter the following commands:
 
-**conda activate ezyscore** \
-**voila ezyscore.ipynb**
+**conda activate ezyscr** \
+**voila ezyscr.ipynb**
 
 The last command will open a browser where the interface is hosted.
 
