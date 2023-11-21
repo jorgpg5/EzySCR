@@ -1,4 +1,4 @@
-name: ezyscr
+name: annot_interface
 channels:
   - defaults
 dependencies:
@@ -140,4 +140,4 @@ dependencies:
     - websockets==10.2
     - widgetsnbextension==3.6.0
     - zipp==3.7.0
-prefix: C:\Users\pardo2\AppData\Local\Continuum\anaconda3\envs\ezyscr
+prefix: C:\Users\pardo2\AppData\Local\Continuum\anaconda3\envs\annot_interface
